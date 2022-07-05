@@ -1,0 +1,13 @@
+name: "."
+title: "Analysis of 2021 Movies"
+description: |
+  Analysis of 2021 Movies
+output_dir: "docs"
+theme: theme.css
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

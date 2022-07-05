@@ -1,0 +1,15 @@
+---
+title: "Sources"
+author: "Suvan Chatakondu"
+date: '2022-07-02'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## URLs
+
+For my data collection, I used two urls to determine my graphs and tables
+https://www.boxofficemojo.com/year/2021/?grossesOption=totalGrosses&sort=rank&sortDir=asc&ref_=bo_yld__resort#table
+https://www.the-numbers.com/market/2021/genres
